@@ -33,14 +33,14 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cosmos1gvvelaj7ymn5mq9uj3754kyu4nhxcxc3jy9jj7",
+          "address": "cosmos10pfhnqhj093htxcvp9skr0guljmqsfljxkn93p",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cosmos1200uvg3g9hnee5fa6w2l4hueru6uavdvrf9ya8",
+          "address": "cosmos1h4972fnj9c6nk9uuppsct3fr3rjngl788jz35r",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -57,7 +57,7 @@
       },
       "balances": [
         {
-          "address": "cosmos1gvvelaj7ymn5mq9uj3754kyu4nhxcxc3jy9jj7",
+          "address": "cosmos10pfhnqhj093htxcvp9skr0guljmqsfljxkn93p",
           "coins": [
             {
               "denom": "stake",
@@ -70,7 +70,7 @@
           ]
         },
         {
-          "address": "cosmos1200uvg3g9hnee5fa6w2l4hueru6uavdvrf9ya8",
+          "address": "cosmos1h4972fnj9c6nk9uuppsct3fr3rjngl788jz35r",
           "coins": [
             {
               "denom": "stake",
